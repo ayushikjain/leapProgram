@@ -26,24 +26,24 @@ Awarded for best internship project presentation
 
 ### PROJECTS
 **The Pac-Man Projects**                                                                      *Jan 2019 - Mar 2019*
-* Worked on projects to apply AI techniques to playing Pac-Man. AI concepts used were informed state-space search, probabilistic inference, and reinforcement learning [Python]
+* Worked on projects to apply AI techniques to playing Pac-Man. AI concepts used were informed state-space search, probabilistic inference, and reinforcement learning *[Python]*
 
 **MiniJava - A subset of Java**                                                               *Feb 2018 - Apr 2018*
-* Developed a semantic analyser, type checker and code generator of the Mini Java language [ANTLR4, JS, NodeJS]
+* Developed a semantic analyser, type checker and code generator of the Mini Java language *[ANTLR4, JS, NodeJS]*
 
 **Digits Recognition**                                                                        *Nov 2017 - Dec 2017*
-* Implemented backpropagation and trained a multi-layer perceptron to classify digit images using the MNIST dataset of 60K training images and 10K test images [Python]
+* Implemented backpropagation and trained a multi-layer perceptron to classify digit images using the MNIST dataset of 60K training images and 10K test images *[Python]*
 
 **Movie Recommendation System**                                                               *Oct 2017 - Nov 2017*
-* Implemented collaborative filtering to predict the ratings of movies from Netflix Prize dataset of 32M records [Java]
+* Implemented collaborative filtering to predict the ratings of movies from Netflix Prize dataset of 32M records *[Java]*
 
 **Online retailer website clickstream analysis**                                              *Sep 2017 - Oct 2017*
-* Implemented ID3 decision tree learner for mining clickstream data (~40K records) collected from Gazelle.com (legwear & legcare web retailer), to predict whether the visitor will view another page on the website or not [Java]
+* Implemented ID3 decision tree learner for mining clickstream data (~40K records) collected from Gazelle.com (legwear & legcare web retailer), to predict whether the visitor will view another page on the website or not *[Java]*
 
 **Multithreaded Web Server**                                                                  *Feb 2017 - Mar 2017*
-* Designed and developed a multi-threaded web server. Implemented FCFS and SJF scheduling for incoming requests and thread synchronization to prevent race conditions [Java]
+* Designed and developed a multi-threaded web server. Implemented FCFS and SJF scheduling for incoming requests and thread synchronization to prevent race conditions *[Java]*
 
 ### SKILLS
-Languages: Java, C#, Python, C, HTML, CSS, JavaScript, TypeScript, JSP
-Databases & Storage: MySQL, PL/SQL, Oracle, Amazon S3, DynamoDB
-Other Technologies: Node.js, Struts, Hibernate, Spring, Servlets, Unix, Eclipse, GIT, Amazon Web Service (AWS)  
+* *Languages:* Java, C#, Python, C, HTML, CSS, JavaScript, TypeScript, JSP
+* *Databases & Storage:* MySQL, PL/SQL, Oracle, Amazon S3, DynamoDB
+* *Other Technologies:* Node.js, Struts, Hibernate, Spring, Servlets, Unix, Eclipse, GIT, Amazon Web Service (AWS)  
